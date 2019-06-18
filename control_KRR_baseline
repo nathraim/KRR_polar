@@ -1,0 +1,10 @@
+features_training density_supercell_reconstructed_traj_paraI_NVT.align.xyz_dr0.75.npy
+dfpt_training polar_dfpt_paraI_NVT.align.dat.npy
+polar_mol_training polar_NVT_molpol_sum.align_scaled.dat.npy
+features_test density_supercell_reconstructed_traj_paraI_MD2.align.xyz_dr0.75.npy
+dfpt_test polar_paraI_MD2.align.dat.npy
+polar_mol_test polar_MD2_molpol.align_scaled.dat.npy
+length_training 500
+length_test 1000
+grid_search no
+plot no

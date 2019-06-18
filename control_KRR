@@ -1,0 +1,8 @@
+features_training density_geoms_train.xyz.npy
+dfpt_training polar_train.dat
+features_test density_geoms_test.xyz.npy
+dfpt_test polar_test.dat
+length_training 5
+length_test 5
+grid_search no
+plot no

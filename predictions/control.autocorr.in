@@ -1,0 +1,6 @@
+choice polarizability
+sampling_interval 1
+broadening 3
+cut_traj -1
+damp -1
+MD_time_step 0.001
