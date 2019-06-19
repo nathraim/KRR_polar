@@ -7,7 +7,7 @@ with a KRR approach, and use them as a baseline for the calculation of the full 
 
 :older_man: _The whole is different than the sum of its parts._
 
-In the folder `molecules_in_crystal`, you will find the necessary files to do so. The steps to follow are:
+In the folder `molecules_in_crystal/`, you will find the necessary files to do so. The steps to follow are:
 1) Break down the crystal trajectory into different trajectories for every molecule in the primitive cell:
 (you need to adapt it to your system :no_mouth:): `split_crystal_into_mol.py`.
 2) Align these individual trajectories to a reference frame (the same you used to train the molecule on), 
