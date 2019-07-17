@@ -1,0 +1,8 @@
+features_training traj_NVT_line.dat.npy
+dfpt_training polar_dfpt_NVT.dat.npy
+features_test traj_NVE_line.dat.npy
+dfpt_test polar_dfpt_NVE.dat.npy
+length_training 100
+length_test 6000
+grid_search no
+plot yes
