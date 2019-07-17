@@ -1,4 +1,5 @@
 # KRR_polar
+
 A kernel ridge regression (with Gaussian kernels) approach to predict polarizability tensors, for calculating Raman spectra of molecules and crystals.
 Please type `python KRR_polar.py --help` for explanation on its usage.
 
@@ -17,3 +18,6 @@ and store the corresponding rotation matrices: `align-molecules_rot.py`.
 `transform_polar.py`
 5) Sum up all molecular polarizability tensors: `sum_molecular_polar.py`.
 You can then use this quantity as a baseline (to specify in the `control_KRR` file) for the full crystal.
+
+Trying an interactive notebook (messy for now):
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabia-group/KRR_polar/master?filepath=KRR_polar_try_interactive.ipynb)
