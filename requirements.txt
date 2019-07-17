@@ -1,0 +1,4 @@
+bqplot
+appmode
+scipy
+matplotlib
