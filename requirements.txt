@@ -2,7 +2,4 @@ bqplot
 appmode
 scipy
 matplotlib
-jupyter_core
-notebook>=5.6.0
-ipython>=5.4.1
-lesscpy>=0.11.2
+jupyterthemes
